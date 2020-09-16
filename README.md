@@ -24,7 +24,7 @@
 
 ### Roadmap
 
-See the [open issues](https://github.com/thdelmas/better-readme/issues) for a list of proposed features.
+See the [open issues](https://github.com/thdelmas/better-README/issues) for a list of proposed features.
 
 ### Built-With
 
@@ -32,7 +32,7 @@ See the [open issues](https://github.com/thdelmas/better-readme/issues) for a li
 
 #### Known Bugs
 
-See the [open issues](https://github.com/thdelmas/better-readme/issues) for a list of known issues.
+See the [open issues](https://github.com/thdelmas/better-README/issues) for a list of known issues.
 
 ## Getting Started
 
@@ -80,21 +80,19 @@ Please contribute using [Github Flow](https://guides.github.com/introduction/flo
 2. Create your Feature Branch (`git checkout -b feature/NewFeature`)
 3. Commit your Changes (`git commit -m 'Add some fun here'`)
 4. Push to the Branch (`git push origin feature/NewFeature`)
-5. [Open a Pull Request](https://github.com/thdelmas/better-readme/compare/).
+5. [Open a Pull Request](https://github.com/thdelmas/better-README/compare/).
 
 ## Contact Us
 
 ## Authors
 
+* **Théophile Delmas** - *Initial design*
+
+See also the list of [contributors](https://github.com/thdelmas/better-README/graphs/contributors) who participated in this project.
+
 ## Licence
 
 License - see the [LICENSE](LICENSE) file for details
-
-## Authors
-
-* **Théophile Delmas** - *Initial design*
-
-See also the list of [contributors](https://github.com/thdelmas/better-readme/-/graphs/master) who participated in this project.
 
 ## Acknowledgments
 
