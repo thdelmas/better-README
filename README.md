@@ -90,6 +90,12 @@ Please contribute using [Github Flow](https://guides.github.com/introduction/flo
 
 License - see the [LICENSE](LICENSE) file for details
 
+## Authors
+
+* **Théophile Delmas** - *Initial design*
+
+See also the list of [contributors](https://github.com/thdelmas/better-readme/-/graphs/master) who participated in this project.
+
 ## Acknowledgments
 
 ## References
