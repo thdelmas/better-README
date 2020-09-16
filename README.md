@@ -1,8 +1,8 @@
-# Yourproject
+# better-README
 
 ## Table of Contents
 
-* [About Yourproject](#about-yourproject)
+* [About better-README](#about-better-readme)
   * [Roadmap](#roadmap)
   * [Built With](#built-with)
   * [Security](#security)
@@ -24,7 +24,7 @@
 
 ### Roadmap
 
-See the [open issues](https://github.com/yourname/yourproject/issues) for a list of proposed features.
+See the [open issues](https://github.com/thdelmas/better-readme/issues) for a list of proposed features.
 
 ### Built-With
 
@@ -32,7 +32,7 @@ See the [open issues](https://github.com/yourname/yourproject/issues) for a list
 
 #### Known Bugs
 
-See the [open issues](https://github.com/yourname/yourproject/issues) for a list of known issues.
+See the [open issues](https://github.com/thdelmas/better-readme/issues) for a list of known issues.
 
 ## Getting Started
 
@@ -80,7 +80,7 @@ Please contribute using [Github Flow](https://guides.github.com/introduction/flo
 2. Create your Feature Branch (`git checkout -b feature/NewFeature`)
 3. Commit your Changes (`git commit -m 'Add some fun here'`)
 4. Push to the Branch (`git push origin feature/NewFeature`)
-5. [Open a Pull Request](https://github.com/yourname/yourproject/compare/).
+5. [Open a Pull Request](https://github.com/thdelmas/better-readme/compare/).
 
 ## Contact Us
 
