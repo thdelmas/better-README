@@ -4,6 +4,7 @@
 
 * [About better-README](#about-better-readme)
   * [Roadmap](#roadmap)
+    * [Data Architecture](#data-architecture)
   * [Built With](#built-with)
   * [Security](#security)
     * [Known Bugs](#known-bugs)
@@ -25,6 +26,8 @@
 ### Roadmap
 
 See the [open issues](https://github.com/thdelmas/better-README/issues) for a list of proposed features.
+
+#### Data Architecture
 
 ### Built-With
 
