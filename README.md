@@ -20,7 +20,7 @@
 * [Acknowledgments](#acknowledgments)
 * [References](#references)
 
-## About Yourproject
+## About better-README
 
 ### Roadmap
 
