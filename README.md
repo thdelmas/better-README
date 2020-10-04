@@ -27,11 +27,11 @@ The wolrd best project's description is about to be written here
 
 ### Specifications
 
-You can find [here](./SPECIFICATIONS.md), more information about what the final product should look like
+You can find [here](SPECIFICATIONS.md), more information about what the final product should look like
 
 ### Roadmap
 
-Hey, check the <ROADMAP.md> file to know everythings about what 
+Hey, check the [ROADMAP.md](ROADMAP.md) file to know everythings about what 
 
 See the [open issues](https://github.com/thdelmas/better-README/issues) for a list of proposed features.
 
@@ -86,7 +86,7 @@ cp *.md ~/myprojectisbetter/ # copy all md files you need to your project
 
 ## API
 
-You can find API documentation at <./API.md>
+You can find API documentation at [API.md](API.md)
 
 
 ## Contributing
@@ -95,7 +95,7 @@ How do you can help ?
 
 How does someone develop the code ?
 
-Please check the <./CONTRIBUTING.md> file
+Please check the [CONTRIBUTING.md](CONTRIBUTING.md) file
 
 ## Contact Us
 
