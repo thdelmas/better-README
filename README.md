@@ -3,8 +3,8 @@
 ## Table of Contents
 
 * [About better-README](#about-better-readme)
+  * [Specifications](#specifications)
   * [Roadmap](#roadmap)
-    * [Data Architecture](#data-architecture)
   * [Built With](#built-with)
   * [Security](#security)
     * [Known Bugs](#known-bugs)
@@ -13,7 +13,7 @@
   * [Installation](#installation)
   * [Testing](#testing)
   * [Usage](#usage)
-* [API](#api)
+* [API](API.md)
 * [Contributing](#contributing)
 * [Contact Us](#contact-us)
 * [Authors](#authors)
@@ -23,17 +23,27 @@
 
 ## About better-README
 
+The wolrd best project's description is about to be written here
+
+### Specifications
+
+You can find [here](./SPECIFICATIONS.md), more information about what the final product should look like
+
 ### Roadmap
+
+Hey, check the <./ROADMAP.md> file to know everythings about what 
 
 See the [open issues](https://github.com/thdelmas/better-README/issues) for a list of proposed features.
 
-#### Data Architecture
-
 ### Built-With
+
+Any dependencies should go here, maybe better empty
 
 ### Security
 
 #### Known Bugs
+
+Hopefully, this should be empty too
 
 See the [open issues](https://github.com/thdelmas/better-README/issues) for a list of known issues.
 
@@ -44,12 +54,13 @@ See the [open issues](https://github.com/thdelmas/better-README/issues) for a li
 This is an example of how to list things you need to use the software and how to install them.
 
 ```sh
-
+sudo apt-get update && sudo apt-get upgrade -y # Update your old computer
 ```
 
 ### Installation
 
 ```sh
+git clone https://github.com/thdelmas/better-readme # Fetch source files
 
 ```
 
@@ -58,6 +69,9 @@ This is an example of how to list things you need to use the software and how to
 How does someone test the code ?
 
 ```sh
+cd better-readme # Go in this famous directory
+vim README.md # Open the file with my favorite text editor
+#<ESC>:wq -> To quit vim
 
 ```
 
@@ -66,24 +80,22 @@ How does someone test the code ?
 How does someone use the code ?
 
 ```sh
+cp *.md ~/myprojectisbetter/ # copy all md files you need to your project
 
 ```
 
 ## API
 
+You can find API documentation at <./API.md>
+
+
 ## Contributing
+
+How do you can help ?
 
 How does someone develop the code ?
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-Please contribute using [Github Flow](https://guides.github.com/introduction/flow/).
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/NewFeature`)
-3. Commit your Changes (`git commit -m 'Add some fun here'`)
-4. Push to the Branch (`git push origin feature/NewFeature`)
-5. [Open a Pull Request](https://github.com/thdelmas/better-README/compare/).
+Please check the <./CONTRIBUTING.md> file
 
 ## Contact Us
 
@@ -99,4 +111,11 @@ License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
+Thanks to all people spending their time to make a better world
+
 ## References
+
+<https://github.com/matiassingers/awesome-readme>
+<https://github.com/othneildrew/Best-README-Template>
+<https://www.makeareadme.com/>
+<https://blog.bitsrc.io/how-to-write-beautiful-and-meaningful-readme-md-for-your-next-project-897045e3f991>
