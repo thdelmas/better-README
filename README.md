@@ -31,7 +31,7 @@ You can find [here](./SPECIFICATIONS.md), more information about what the final 
 
 ### Roadmap
 
-Hey, check the <./ROADMAP.md> file to know everythings about what 
+Hey, check the <ROADMAP.md> file to know everythings about what 
 
 See the [open issues](https://github.com/thdelmas/better-README/issues) for a list of proposed features.
 
