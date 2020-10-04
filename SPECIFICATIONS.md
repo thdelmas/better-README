@@ -2,6 +2,6 @@
 
 Better Readme should be able to:
 
-- [ ] Be smart and beautiful
-- [x] Be a template for everyone
-- [x] Not be exhaustive
+- :heavy_plus_sign: Be smart and beautiful
+- :heavy_check_mark: Be a template for everyone
+- :heavy_check_mark: Not be exhaustive
