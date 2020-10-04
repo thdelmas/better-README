@@ -101,7 +101,7 @@ Please check the [CONTRIBUTING.md](CONTRIBUTING.md) file
 
 ## Authors
 
-* **Théophile Delmas** - *Initial design*
+* **thdelmas** - *Initial design*
 
 See also the list of [contributors](https://github.com/thdelmas/better-README/graphs/contributors) who participated in this project.
 
