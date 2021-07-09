@@ -15,7 +15,7 @@
   * [Usage](#usage)
 * [API](API.md)
 * [Contributing](#contributing)
-* [Contact Us](#contact-us)
+* [Contact](#contact)
 * [Authors](#authors)
 * [Licence](#licence)
 * [Acknowledgments](#acknowledgments)
@@ -97,7 +97,7 @@ How does someone develop the code ?
 
 Please check the [CONTRIBUTING.md](CONTRIBUTING.md) file
 
-## Contact Us
+## Contact
 
 ## Authors
 
