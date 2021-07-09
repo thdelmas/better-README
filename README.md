@@ -1,8 +1,8 @@
-# better-README
+# Better-README
 
 ## Table of Contents
 
-* [About better-README](#about-better-readme)
+* [About Better-README](#about-better-readme)
   * [Specifications](#specifications)
   * [Roadmap](#roadmap)
   * [Built With](#built-with)
@@ -21,7 +21,7 @@
 * [Acknowledgments](#acknowledgments)
 * [References](#references)
 
-## About better-README
+## About Better-README
 
 The wolrd best project's description is about to be written here
 
@@ -33,7 +33,7 @@ You can find [here](SPECIFICATIONS.md), more information about what the final pr
 
 Hey, check the [ROADMAP.md](ROADMAP.md) file to know everythings about how are we going to do
 
-See the [open issues](https://github.com/thdelmas/better-README/issues) for a list of proposed features.
+See the [open issues](https://github.com/thdelmas/Better-README/issues) for a list of proposed features.
 
 ### Built-With
 
@@ -45,7 +45,7 @@ Any dependencies should go here, maybe better empty
 
 Hopefully, this should be empty too
 
-See the [open issues](https://github.com/thdelmas/better-README/issues) for a list of known issues.
+See the [open issues](https://github.com/thdelmas/Better-README/issues) for a list of known issues.
 
 ## Getting Started
 
@@ -101,9 +101,9 @@ Please check the [CONTRIBUTING.md](CONTRIBUTING.md) file
 
 ## Authors
 
-* **thdelmas** - *Initial design*
+* **[thdelmas](https://github.com/thdelmas)** - *Initial design*
 
-See also the list of [contributors](https://github.com/thdelmas/better-README/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/thdelmas/Better-README/graphs/contributors) who participated in this project.
 
 ## Licence
 
