@@ -91,9 +91,9 @@ You can find API documentation at [API.md](API.md)
 
 ## Contributing
 
-How do you can help ?
+How can you help ?
 
-How does someone develop the code ?
+What are the guidelines to follow?
 
 Please check the [CONTRIBUTING.md](CONTRIBUTING.md) file
 
@@ -111,7 +111,9 @@ License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
-Thanks to all people spending their time to make a better world
+Thanks to:
+
+- All people spending their time to make a better world
 
 ## References
 
